@@ -69,6 +69,7 @@ sudo chown -R ec2-user:ec2-user cotton-app
 
 
 🔐 ✅ 8. Fix Permissions
+sudo yum install php-gd -y
 sudo chmod -R 755 /var/www/html/cotton-app
 
 
