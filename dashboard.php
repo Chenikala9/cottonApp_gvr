@@ -85,5 +85,6 @@ while($row = $res->fetch_array()){
 <br>
 <a href="report.php">📊 Reports</a><br>
 <a href="logout.php">🚪 Logout</a><br>
+<a href="search_all.php">🔍 Search All</a><br>
 <a href="change_password.php">🔐 Change Password</a>
 <?php include 'footer.php'; ?>
